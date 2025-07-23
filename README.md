@@ -1,4 +1,4 @@
-# Windows 11 USB Lock Script 🚀🔒🔓🔏![Uploading UsbPendriveGIF.gif…]()
+# Windows 11 USB Lock Script 🚀🔒🔓🔏
 
 
 
