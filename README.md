@@ -1,4 +1,6 @@
-# Windows 11 USB Lock Script 🚀
+# Windows 11 USB Lock Script 🚀🔒🔓🔏![Uploading UsbPendriveGIF.gif…]()
+
+
 
 This script automatically locks your Windows 11 PC when a specified USB drive (E:) is removed.
 
